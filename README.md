@@ -1,1 +1,1 @@
-# Pix2Pix_For_PaperWithCode
+# Pix2Pix_MindSpore_For_PaperWithCode
